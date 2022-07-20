@@ -1,6 +1,6 @@
 ## 💻 Administrasi Jaringan Komputer
 
-Berisi file ".ova" program virtual box untuk konfigurasi jaringan pada debian versi 9 
+Berisi file ".ova" program virtual box untuk konfigurasi jaringan pada debian versi 9
 
 ## 📋 Fitur :
 
@@ -12,14 +12,14 @@ Berisi file ".ova" program virtual box untuk konfigurasi jaringan pada debian ve
 
 - WEB Server
 
-- Mail Server 
+- Mail Server
+
+- FTP Server
+
+- Proxy Server
+
+- VPN Server
 
 ## 💾 Download File :
 
-- https://mega.nz/file/zeAhhBqJ#V8wp7-Y6ikU2YROP61aqEQ8u55qT2TE0E9KJykhtqxI
-
-
-
-
-
-
+- https://mega.nz/file/baBXQSiR#-889Jj5kATqUpBakRhy8efHHPzuSQ7TR3VsshO0bzPU
